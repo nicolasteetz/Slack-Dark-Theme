@@ -8701,3 +8701,15 @@ a, a:link, a:visited {
 .p-workspace__input .p-message_input_field {
     background-color: #222;
 }
+
+/* fix bg-space behind input field background color */
+
+.p-workspace--classic-nav .p-workspace__primary_view_footer {
+    background-color: #222;
+}
+
+/* fix reaction count text-color */
+
+.c-reaction__count {
+    color: lightgray;
+}
