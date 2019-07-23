@@ -8686,30 +8686,24 @@ a, a:link, a:visited {
     color: lightgray;
 }
 
-/* fix channel header background color */
+/* custom fixes */
 
 .p-classic_nav__channel_header, .p-classic_nav__right_header {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
-/* fix input field background color */
-
 .p-workspace__input .p-message_input_field.focus {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
 .p-workspace__input .p-message_input_field {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
-/* fix bg-space behind input field background color */
-
-.p-workspace--classic-nav .p-workspace__primary_view_footer {
-    background-color: #222;
+.p-workspace__primary_view_footer {
+    background-color: #222 !important;
 }
-
-/* fix reaction count text-color */
 
 .c-reaction__count {
-    color: lightgray;
+    color: #666 !important;
 }
