@@ -8685,3 +8685,9 @@ a, a:link, a:visited {
 .p-threads_flexpane__header_channel_name {
     color: lightgray;
 }
+
+/* fix channel header background color */
+
+.p-classic_nav__channel_header, .p-classic_nav__right_header {
+    background-color: #000;
+}
