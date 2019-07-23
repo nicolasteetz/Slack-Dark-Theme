@@ -8731,4 +8731,11 @@ a, a:link, a:visited {
     background: #666 !important;
     background-color: #666 !important;
     color: #fff !important;
+    padding: 2px 4px !important;
+}
+.c-member_slug--link {
+    background: #666 !important;
+    background-color: #666 !important;
+    color: #fff !important;
+    padding: 2px 4px !important;
 }
