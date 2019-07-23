@@ -8754,3 +8754,33 @@ a, a:link, a:visited {
 .c-search_autocomplete__member .c-unified_member__name {
     color: #666 !important;
 }
+.c-search_modal:not(.c-search_modal--primarysearch) .c-search__input_box {
+    background-color: #222 !important;
+}
+.c-search__input_box .c-search__input_box__input .ql-placeholder {
+    color: #666 !important;
+    opacity: 1 !important;
+}
+.c-search_autocomplete footer {
+    background-color: #222 !important;
+    border-top: 1px solid #666 !important;
+}
+.c-search__input_and_close {
+    border-bottom: 1px solid #666 !important;
+}
+.c-fullscreen_modal__body {
+    background-color: #222 !important;
+    color: #fff !important;
+}
+.p-channel_create_modal__label_title strong {
+    color: #666 !important;
+}
+.p-channel_create_modal__input_subtext {
+    color: #666 !important;
+}
+.p-channel_create_modal__private_toggle_copy_body {
+    color: #666 !important;
+}
+.p-invite_users_input__label_title strong {
+    color: #666 !important;
+}
