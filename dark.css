@@ -8691,19 +8691,37 @@ a, a:link, a:visited {
 .p-classic_nav__channel_header, .p-classic_nav__right_header {
     background-color: #222 !important;
 }
-
 .p-workspace__input .p-message_input_field.focus {
     background-color: #222 !important;
 }
-
 .p-workspace__input .p-message_input_field {
     background-color: #222 !important;
 }
-
 .p-workspace__primary_view_footer {
     background-color: #222 !important;
 }
-
 .c-reaction__count {
     color: #666 !important;
 }
+.p-degraded_list__loading {
+    background-color: #222 !important;
+}
+.p-classic_nav__model__title__info {
+    color: #666 !important;
+}
+.p-classic_nav__model__button {
+    color: #666 !important;
+}
+.p-classic_nav__right__button {
+    color: #666 !important;
+}
+.p-classic_nav__right__search__icon {
+    color: #666 !important;
+}
+.p-classic_nav__right__search__placeholder {
+    color: #666 !important;
+}
+.p-classic_nav__right__search__text {
+    color: #666 !important;
+}
+    
