@@ -8742,3 +8742,15 @@ a, a:link, a:visited {
 .c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover {
     color: #fff !important;
 }
+.c-search_modal .popover>div {
+    background-color: #222 !important;
+}
+.c-search_autocomplete__suggestion_item {
+    color: #666 !important;
+}
+.c-team__display-name, .c-unified_member__display-name, .c-usergroup__handle {
+    color: #fff !important;
+}
+.c-search_autocomplete__member .c-unified_member__name {
+    color: #666 !important;
+}
