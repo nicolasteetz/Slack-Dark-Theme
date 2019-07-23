@@ -8768,6 +8768,10 @@ a, a:link, a:visited {
 .c-search__input_and_close {
     border-bottom: 1px solid #666 !important;
 }
+.c-search_autocomplete header {
+    background-color: #222 !important;
+    border-bottom: 1px solid #666 !important;
+}
 .c-fullscreen_modal__body {
     background-color: #222 !important;
     color: #fff !important;
